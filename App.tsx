@@ -18,11 +18,11 @@ import { SceneMap, TabView } from 'react-native-tab-view';
 
 
 function FirstTab() {
-  return <View />;
+  return <Text>First</Text>;
 }
 
 function SecondTab() {
-  return <View />;
+  return <Text>Second</Text>;
 }
 
 const tabs = [
